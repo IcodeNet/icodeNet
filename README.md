@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 - 🔭 I’m currently working on React, AWS and all things js, typescript, Cypress, Playwright, jest, testing libraty etc.
-- 🌱 I’m currently learning Danish and improving on Stoicism.
+- 🌱 also learning Danish and improving on Stoicism.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/olympus/">
